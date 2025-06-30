@@ -4,6 +4,13 @@ This repository contains my **Python programs**, **lab exercises**, and **assign
 
 ---
 
+## 👨‍🏫 Faculty Reference
+
+This repository was created as part of the **CSEN1021-Programming with Python (Semester 2)** under the guidance of [**Dr. Tayi Jyothirmayi**](https://www.gitam.edu/faculty/tayi-jyothirmayi), Faculty at **GITAM University**.
+
+
+---
+
 ## 📂 Repository Structure
 
 - 📁 GPA → Programs related to GPA calculation
